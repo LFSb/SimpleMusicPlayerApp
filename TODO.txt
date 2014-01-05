@@ -1,0 +1,8 @@
+-Navigation Window
+	-Pick between either the File Browser or the player.
+
+-File Browser
+	-Simple file browser that lists music by folder.
+
+-Player
+	-Standard solution? Custom implementation? Research.
