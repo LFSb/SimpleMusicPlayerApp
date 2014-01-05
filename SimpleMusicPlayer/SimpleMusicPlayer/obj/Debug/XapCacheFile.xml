@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Bin\Debug\SimpleMusicPlayer_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="05-January-14 13:28:07">
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.dll" archivePath="SimpleMusicPlayer.dll" lastWriteTime="05-January-14 13:28:06" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="05-January-14 13:27:57" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="05-January-14 13:27:57" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="05-January-14 13:27:57" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="05-January-14 13:27:57" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="05-January-14 13:27:57" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="05-January-14 13:28:07" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="05-January-14 13:27:57" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="05-January-14 13:27:57" />
+  <file source="C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="05-January-14 13:28:07" />
+</xapCache>
