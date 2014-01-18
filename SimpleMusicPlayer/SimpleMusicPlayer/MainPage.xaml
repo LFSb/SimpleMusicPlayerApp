@@ -47,7 +47,7 @@
 
     <!--ContentPanel - place additional content here-->
     <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0"/>
-    <Button Content="File Browser" Name="ToFileBrowserButton" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="12,219,0,0" Grid.Row="1" Width="212" Click="ToFileBrowserButton_Click"/>
+    <Button Content="Artist View" Name="ToArtistViewButton" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="12,219,0,0" Grid.Row="1" Width="212" Click="ToArtistViewButton_Click"/>
     <Button Content="Music Player" Name="ToMusicPlayerButton" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="242,219,0,0" Grid.Row="1" Width="226" Click="ToMusicPlayerButton_Click"/>
 
     <!--Uncomment to see an alignment grid to help ensure your controls are

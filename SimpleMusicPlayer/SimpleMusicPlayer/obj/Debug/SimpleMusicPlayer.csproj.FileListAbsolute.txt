@@ -17,3 +17,6 @@ C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\Si
 C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.dll
 C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
 C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\XapCacheFile.xml
+C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\Views\ArtistView.g.cs
+C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\Views\SongView.g.cs
+C:\Code\SimpleMusicPlayerAppWP8\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\Views\MusicPlayerView.g.cs

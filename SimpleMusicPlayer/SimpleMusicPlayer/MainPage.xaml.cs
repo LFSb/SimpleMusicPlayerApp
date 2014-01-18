@@ -33,24 +33,25 @@ namespace SimpleMusicPlayer
       ApplicationBar = new ApplicationBar();
 
       // Create a new button and set the text value to the localized string from AppResources.
-      ApplicationBarIconButton appBarButton = new ApplicationBarIconButton(new Uri("/Assets/AppBar/appbar.add.rest.png", UriKind.Relative));
+      var appBarButton = new ApplicationBarIconButton(new Uri("/Assets/AppBar/appbar.add.rest.png", UriKind.Relative));
       appBarButton.Text = AppResources.AppBarButtonText;
       ApplicationBar.Buttons.Add(appBarButton);
 
       // Create a new menu item with the localized string from AppResources.
-      ApplicationBarMenuItem appBarMenuItem = new ApplicationBarMenuItem(AppResources.AppBarMenuItemText);
+      var appBarMenuItem = new ApplicationBarMenuItem(AppResources.AppBarMenuItemText);
       ApplicationBar.MenuItems.Add(appBarMenuItem);
-    }
-
-    private void ToFileBrowserButton_Click(object sender, RoutedEventArgs e)
-    {
-      var fileBrowserUri = new Uri("/Views/FileBrowser.xaml", UriKind.Relative);
-      NavigationService.Navigate(fileBrowserUri);
     }
 
     private void ToMusicPlayerButton_Click(object sender, RoutedEventArgs e)
     {
-      MessageBox.Show(string.Format("Coming soon!"));
+      var musicPlayerViewUri = new Uri("/Views/MusicPlayerView.xaml", UriKind.Relative);
+      NavigationService.Navigate(musicPlayerViewUri);
+    }
+
+    private void ToArtistViewButton_Click(object sender, RoutedEventArgs e)
+    {
+      var artistViewUri = new Uri("/Views/ArtistView.xaml", UriKind.Relative);
+      NavigationService.Navigate(artistViewUri);
     }
   }
 }
